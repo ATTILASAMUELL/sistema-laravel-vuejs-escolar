@@ -7,8 +7,11 @@
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=attila.QRCodeGeradorLeitor)
 
 
-# Desafio - Sistema Escola ATTILA - Laravel - Vue Js
+## Desafio - Sistema Escola ATTILA - Laravel - Vue Js
 Desenvolvimento de um sistema do zero, desde, o back-end ao front-end
+ + Segurança JWT.
+ + Envio de email pelo ususario(professor) aos alunos.
+ + Upload de imagem.
 
 ---
 ## 🔧 Stack utilizada
@@ -19,12 +22,13 @@ Desenvolvimento de um sistema do zero, desde, o back-end ao front-end
 ---
 ## 📚 Requisitos
 Versão do *PHP* maior ou igual a 7.2.5
+Git instalad (Opcional), pode baixar o zip do projeto
 
 ---
 ##  Clone do projeto 
 ### Clone
 ```bash
-git@github.com:ATTILASAMUELL/sistema-laravel-vuejs-escolar.git
+git clone git@github.com:ATTILASAMUELL/sistema-laravel-vuejs-escolar.git
 ```
 ## 🚀 Instalação
 
@@ -76,3 +80,17 @@ MAIL_ENCRYPTION=tls
 MAIL_FROM_ADDRESS=null
 MAIL_FROM_NAME="${APP_NAME}"
 ```
+Rode o seguinte comando para subir o servidor local:
+```bash
+php artisan serve
+```
+## 💡 Front-End - Vue Js
+Como utilizei a CDN Vuetifyjs, então, não tem necessidade de instalar nada, para o front-end funcionar.
+Clique duas vezes no arquivo dentro da pasta:
+```bash
+frontEndSistema/index.html
+```
+## 💡 Imagem de partes do sistema:
+![adm](https://user-images.githubusercontent.com/76443540/181694001-0a395d6f-f1f3-4bbd-a6fa-bae7263b924d.png)
+![principal](https://user-images.githubusercontent.com/76443540/181694024-e70d24f3-49c1-4eed-b770-26d7783e3ad1.png)
+
