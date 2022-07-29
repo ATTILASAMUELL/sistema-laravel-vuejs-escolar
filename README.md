@@ -21,8 +21,15 @@ Desenvolvimento de um sistema do zero, desde, o back-end ao front-end
 
 ---
 ## 📚 Requisitos
-Versão do *PHP* maior ou igual a 7.2.5
-Git instalad (Opcional), pode baixar o zip do projeto
+**Versão do *PHP* maior ou igual a 7.2.5**
+
+
+**Git instalado (Opcional), pode baixar o zip do projeto**
+## 📚 Acesso ao Sistema
+**Usuário: testandodesafio@gmail.com**
+
+
+**Senha: 12345**
 
 ---
 ##  Clone do projeto 
