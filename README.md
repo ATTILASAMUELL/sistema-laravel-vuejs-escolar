@@ -44,7 +44,7 @@ git clone git@github.com:ATTILASAMUELL/sistema-laravel-vuejs-escolar.git
 cp .env.example .env
 ```
 
-### Rodando comandos do composer, npm e artisan
+### Rodando comandos do composer, artisan
 ```bash
 composer install
 ```
