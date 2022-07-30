@@ -35,7 +35,7 @@ Desenvolvimento de um sistema do zero, desde, o back-end ao front-end
 ##  Clone do projeto 
 ### Clone
 ```bash
-git clone git@github.com:ATTILASAMUELL/sistema-laravel-vuejs-escolar.git
+git clone https://github.com/ATTILASAMUELL/sistema-laravel-vuejs-escolar.git
 ```
 ## 🚀 Instalação
 
