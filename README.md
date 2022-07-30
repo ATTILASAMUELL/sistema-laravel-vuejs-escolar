@@ -24,6 +24,12 @@ Desenvolvimento de um sistema do zero, desde, o back-end ao front-end
 **Versão do *PHP* maior ou igual a 7.2.5**
 
 
+**Composer Instalado**
+
+
+**Xampp ou Wampp Instalado**
+
+
 **Git instalado (Opcional), pode baixar o zip do projeto**
 ## 📚 Acesso ao Sistema
 **Usuário: testandodesafio@gmail.com**
