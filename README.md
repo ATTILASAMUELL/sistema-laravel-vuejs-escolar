@@ -70,7 +70,7 @@ php artisan storage:link
 
 
 ###  Banco de dados
-Sete as configurações de acesso ao banco de dados no seu `.env` de acordo com seu ambiente.
+Sete as configurações de acesso ao banco de dados no seu `.env` de acordo com seu ambiente. Lembre-se de usar 'collation' => 'utf8mb4_unicode_ci'.
 ```bash
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
