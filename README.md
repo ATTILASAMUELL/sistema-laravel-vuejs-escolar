@@ -86,7 +86,7 @@ php artisan migrate
 
 ---
 ## 💡 Serviços externos
-Referente ao serviço de envio de email, disponibilizado no front-end
+Referente ao serviço de envio de email, disponibilizado no front-end, acredito que o serviço SMTP esteja com problema no servidor deles, estou verificando. 
 ```bash
 MAIL_MAILER=smtp
 MAIL_HOST=smtp-relay.sendinblue.com
