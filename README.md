@@ -21,7 +21,7 @@ Desenvolvimento de um sistema do zero, desde, o back-end ao front-end
 
 ---
 ## 📚 Requisitos
-**Versão do *PHP* maior ou igual a 7.2.5**
+**Versão do *PHP* php ^8.0 **
 
 
 **Composer Instalado**
@@ -51,6 +51,10 @@ cp .env.example .env
 ```
 
 ### Rodando comandos do composer, artisan
+Entrar dentro da pasta 'sistema-escolar-laravel-mysql'
+```bash
+ cd sistema-escolar-laravel-mysql
+```
 ```bash
 composer install
 ```
